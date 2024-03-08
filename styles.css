@@ -48,6 +48,7 @@ body {
     background-color: rgba(255, 255, 255, 0.7);
     padding: 20px;
     border-radius: 5px;
+    
   }
   
   header h1 {
@@ -160,10 +161,34 @@ body {
   .header-content p{
     font-weight: 600;
     line-height: 1.5;
-    color: #e00f55;
+    color: #1b1618;
     margin-bottom: 20px;
   box-shadow: #020202;
 
   }
+  .vision, .mission{
+    text-align: center;
+    margin-bottom: 50px
+  }
+  .goals h2{
+    text-align: center;
+    margin-bottom: 50px
+  }
+  .about{
+    text-align: center;
+    margin-bottom: 50px;
+    color:#b6087c;
+    font-weight: 400px;
+  }
+  .contact h2{
+    text-align: center;
+    margin-bottom: 50px;
+    color:#b6087c;
+    font-weight: 400px;
+  }
   
-  
+  .goals img{
+    max-width: 10%;
+    border-radius: 5px;
+    
+  }

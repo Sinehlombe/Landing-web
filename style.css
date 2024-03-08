@@ -1,4 +1,4 @@
-body {
+   body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
@@ -34,7 +34,7 @@ body {
   .product {
     text-align: center;
     margin-bottom: 50px;
-    color:#cc254f ;
+    color:#221a1c ;
   }
   
   .product-card {
